@@ -20,9 +20,9 @@ https://global-tourism-dashboard-sart2wcyeygcnbkc7ptzvf.streamlit.app/
 
 ## 🔹 Screenshots
 
-![Home](screenshots/home.png)  
-![Dashboard](screenshots/dashboard.png)  
-![Interactive Map](screenshots/imap.png)
+![Home](home.png)  
+![Dashboard](dashboard.png)  
+![Interactive Map](imap.png)
 
 ---
 
