@@ -15,12 +15,14 @@ A comprehensive **Streamlit** web application for visualizing global tourism tre
 - **Light/Dark Theme**: Toggle between themes for better user experience.  
 
 ---
+###  Check the website:
+https://global-tourism-dashboard-sart2wcyeygcnbkc7ptzvf.streamlit.app/
 
 ## 🔹 Screenshots
 
 ![Home](screenshots/home.png)  
 ![Dashboard](screenshots/dashboard.png)  
-![Chatbot](screenshots/chatbot.png)
+![Interactive Map](screenshots/imap.png)
 
 ---
 
@@ -30,6 +32,6 @@ A comprehensive **Streamlit** web application for visualizing global tourism tre
 ```bash
 git clone https://github.com/yourusername/global-tourism-dashboard.git
 cd global-tourism-dashboard
+---
 
-###  Check the website:
-https://global-tourism-dashboard-sart2wcyeygcnbkc7ptzvf.streamlit.app/
+
